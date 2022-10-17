@@ -1,1 +1,0 @@
-This project consists to train skills in back end and front to develop a web application.

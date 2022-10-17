@@ -1,0 +1,7 @@
+This project consists to train skills in back end and front to develop a web application.
+
+1. Creat HTML/CSS
+2. Creat Events
+3. Creat DATABASE
+4. Creat Server
+5. Conect DATABASE
